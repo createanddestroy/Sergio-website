@@ -1,0 +1,91 @@
+/* CSS RESET */
+
+* {
+	margin: 0;
+}
+/* CUSTOM TYPE */
+
+
+/* INSTAGRAM VECTOR */
+
+img.logo {
+
+	width: 5%;
+	height: 5%;
+}
+
+a {
+
+text-decoration: none;
+
+}
+
+/* PHOTO TEXT */
+
+h6 {
+
+margin: 10px 15px 20px !important;
+
+}
+
+
+/* NAV BAR SEMANTICS */
+
+
+
+li {
+
+ 	font-family: Helvetica, sans-serif;
+ 	font-size: 20px;
+
+
+ }
+
+ /* HOVER ACTIONS */
+
+.design > a:hover {
+
+	color: #00FFFF !important;
+
+}
+
+.photos > a:hover {
+							
+	color: #FF00FF !important;
+						
+}
+ 
+.other > a:hover {
+ 								
+ 	color: #ffff00 !important;
+ 							
+ }
+
+.img-responsive {
+
+	max-width: 100% !important;
+	
+}
+
+ 		
+/*FOOTER*/
+
+.container {
+
+	margin-top: 15% !important;
+
+}
+.footer {
+
+  position: inherit;
+  bottom: 90px;
+  width: 100%;
+  height: 80px;
+  background-color: transparent;
+  text-align: right;
+  font-family: Helvetica, sans-serif;
+  font-size: 15px;
+	
+	
+}
+
